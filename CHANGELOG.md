@@ -1,3 +1,58 @@
+# 📦 anush008/release-test changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## 1.0.0-beta.1 (2023-05-04)
+
+
+### 📝 Documentation
+
+* README and LICENSE ([917f7b0](https://github.com/Anush008/release-test/commit/917f7b0ba3000eee64e4344d9a21205512b3cc2e))
+* Updated the README.md ([#15](https://github.com/Anush008/release-test/issues/15)) ([3e4dd69](https://github.com/Anush008/release-test/commit/3e4dd69c52477596bb5a2f5e4d4a1b46bbb981df))
+
+
+### 🔁 Continuous Integration
+
+* automated github releases ([#39](https://github.com/Anush008/release-test/issues/39)) ([735fa66](https://github.com/Anush008/release-test/commit/735fa669bf6bb96ebe53a9f9841615be6b1b7ded)), closes [#16](https://github.com/Anush008/release-test/issues/16)
+
+
+### 🐛 Bug Fixes
+
+*  rename the. extension ([294e499](https://github.com/Anush008/release-test/commit/294e499f1db5e4c9d094a620417c46287bfbfb06))
+*  Update URLs ([5828e20](https://github.com/Anush008/release-test/commit/5828e204a00b9731e8d9075184b4c008f66c294b))
+* attach dist folder to release assets ([#47](https://github.com/Anush008/release-test/issues/47)) ([4f50e72](https://github.com/Anush008/release-test/commit/4f50e721cdb52bc74d906b17fecb72a84f312928))
+* Duplicate buttons on GH profile page ([#48](https://github.com/Anush008/release-test/issues/48)) ([9ee2dca](https://github.com/Anush008/release-test/commit/9ee2dcab3d85eef164b43b886a959c9aaff4cdc5))
+* make emails less creepy ([a08fa45](https://github.com/Anush008/release-test/commit/a08fa4510130f357e1d8be12536d20a84f7c1098))
+* re-enable tailwind base class on extension popup ([#31](https://github.com/Anush008/release-test/issues/31)) ([c081217](https://github.com/Anush008/release-test/commit/c081217e778ad6b91352d2e7e6d1693a61ca2b8f))
+* remove activeTab manifest.json ([#50](https://github.com/Anush008/release-test/issues/50)) ([dd71480](https://github.com/Anush008/release-test/commit/dd7148064b66109c744be288593b1adb0a26fa77))
+* set-output deprecation warning ([#51](https://github.com/Anush008/release-test/issues/51)) ([486f84b](https://github.com/Anush008/release-test/commit/486f84baba98f219b3ac69bd447da22e710e3daa))
+* unrecognized-manifest-key ([#55](https://github.com/Anush008/release-test/issues/55)) ([d622500](https://github.com/Anush008/release-test/commit/d6225003fd3bcf5b16ab7c5113c6e559e5a50849))
+* Wrapped the await call in an async() ([#26](https://github.com/Anush008/release-test/issues/26)) ([357aab5](https://github.com/Anush008/release-test/commit/357aab514ee1cbcd0e61c3220cff20c7c8a197be))
+
+
+### 🧑‍💻 Code Refactoring
+
+* improved-auth-strategy ([#56](https://github.com/Anush008/release-test/issues/56)) ([d8b27c3](https://github.com/Anush008/release-test/commit/d8b27c3e8a4259a4f40086feaf5e229a95fb59e9))
+
+
+### 🍕 Features
+
+* add home page and profile page ([#36](https://github.com/Anush008/release-test/issues/36)) ([8a43288](https://github.com/Anush008/release-test/commit/8a4328892d138a9f1eb92aa8a80b33a970659de0))
+* Added a configuration file ([#32](https://github.com/Anush008/release-test/issues/32)) ([ec6722c](https://github.com/Anush008/release-test/commit/ec6722c360dfcdb5cc10cb2300448e1656d58456))
+* Added light mode to GH profile buttons ([#40](https://github.com/Anush008/release-test/issues/40)) ([a7ea43a](https://github.com/Anush008/release-test/commit/a7ea43afb743de445e8d1c20c0dd9a362214aaa2))
+* Added linting to the project. ([#49](https://github.com/Anush008/release-test/issues/49)) ([1f73007](https://github.com/Anush008/release-test/commit/1f730079bffb8f2514c90860b09a0d0d5cc36892))
+* Auto PAT authentication ([#29](https://github.com/Anush008/release-test/issues/29)) ([f4f8cf6](https://github.com/Anush008/release-test/commit/f4f8cf6d1749d9aa23d3011dd130047f884e3e0f))
+* extension window navigation ([#21](https://github.com/Anush008/release-test/issues/21)) ([b5ae9a6](https://github.com/Anush008/release-test/commit/b5ae9a6e5d032b0ce2ab344b30f029598ca8608f))
+* GitHub page update listener ([#37](https://github.com/Anush008/release-test/issues/37)) ([06b070f](https://github.com/Anush008/release-test/commit/06b070fbd1a39f043a640d3f6e3de278a880b983))
+* Invite to OpenSauced ([#20](https://github.com/Anush008/release-test/issues/20)) ([0c8f222](https://github.com/Anush008/release-test/commit/0c8f22286475edeff53f9226f71e46bbb338287f))
+* PAT authentication ([#27](https://github.com/Anush008/release-test/issues/27)) ([e726a93](https://github.com/Anush008/release-test/commit/e726a937684faf20c14530de14f22ba1116195af))
+* Test 1 ([a975da9](https://github.com/Anush008/release-test/commit/a975da92632b62f210060d11ff06db5d51918d4d))
+* updated the extension logo ([#22](https://github.com/Anush008/release-test/issues/22)) ([d19034d](https://github.com/Anush008/release-test/commit/d19034daaf40d322e2c400c65191caf3e5866e39))
+* view on OpenSauced button ([#14](https://github.com/Anush008/release-test/issues/14)) ([a447551](https://github.com/Anush008/release-test/commit/a447551d46ea35dde6b674853ab55094728014c2))
+
 # 📦 open-sauced/browser-extensions changelog
 
 [![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)

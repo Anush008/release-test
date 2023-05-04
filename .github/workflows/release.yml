@@ -74,7 +74,7 @@ jobs:
 
       - name: "🚀 release"
         id: semantic-release
-        uses: Anush008/os-release@v1.1.0
+        uses: Anush008/os-release@v1.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

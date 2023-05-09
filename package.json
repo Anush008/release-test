@@ -1,10 +1,10 @@
 {
   "name": "opensauced-browser-extension",
   "private": true,
-  "version": "1.0.0-beta.2",
-  "repository" : {
-  "type": "git",
-  "url": "https://github.com/Anush008/release-test.git"
+  "version": "1.0.0-beta.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anush008/release-test.git"
   },
   "files": [
     "dist"

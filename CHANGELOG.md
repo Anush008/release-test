@@ -5,6 +5,18 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.0-beta.3](https://github.com/Anush008/release-test/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2023-05-09)
+
+
+### 🍕 Features
+
+* Bump test 5 ([27a2414](https://github.com/Anush008/release-test/commit/27a2414dd1b562ae9eefd03afe05ecd69c4de2c1))
+* Bump test updated action ([65a4c13](https://github.com/Anush008/release-test/commit/65a4c134c4945cf281e047d9a196bdcab011e6b1))
+* Manifest bump test 24 ([91e79d0](https://github.com/Anush008/release-test/commit/91e79d03228c05557ee2cc20f9bcebd47d6ec5b1))
+* Manifest bump test 5.0 ([c73f07d](https://github.com/Anush008/release-test/commit/c73f07d230df4b5d9236091402bba1f85d59803e))
+* repository field add ([b0d1502](https://github.com/Anush008/release-test/commit/b0d1502151351330aad7c193b30388139a8c7097))
+* test with os release ([acaa985](https://github.com/Anush008/release-test/commit/acaa98512238f87cdd45c0b99ca646b31da88023))
+
 ## [1.0.0-beta.2](https://github.com/Anush008/release-test/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2023-05-04)
 
 

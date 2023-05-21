@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "OpenSauced",
+  "version": "0.0.1",
+  "action": { "default_popup": "index.html" },
+  "content_scripts": [
+    {
+      "js": ["src/content-scripts/profileScreen.ts"],
+      "matches": ["https://github.com/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "src/worker/background.ts",
+    "type": "module"
+  },
+  "icons": {
+    "16": "src/assets/os-icons/os-icon-16.png",
+    "32": "src/assets/os-icons/os-icon-32.png",
+    "48": "src/assets/os-icons/os-icon-48.png",
+    "128": "src/assets/os-icons/os-icon-128.png"
+  },
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["storage", "tabs", "cookies"]
+}

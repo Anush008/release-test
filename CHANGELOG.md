@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.0-beta.4](https://github.com/Anush008/release-test/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2023-05-21)
+
+
+### 🍕 Features
+
+* Added action.yml ([cfebe6b](https://github.com/Anush008/release-test/commit/cfebe6b81f1aab6276a1e7d66d3de097f8d4ebdc))
+
 ## [1.0.0-beta.3](https://github.com/Anush008/release-test/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2023-05-21)
 
 

@@ -72,7 +72,7 @@ jobs:
           name: build
           path: dist
 
-      - name: "🚀 release"
+      - name: "🚀 release!"
         id: semantic-release
         uses: Anush008/release@v1.0.0
         env:

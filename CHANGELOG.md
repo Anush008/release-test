@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.0-beta.5](https://github.com/Anush008/release-test/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2023-05-21)
+
+
+### 🍕 Features
+
+* build release update ([639c715](https://github.com/Anush008/release-test/commit/639c7156f9bef0f27966bd344f4ecd1cc3f11381))
+
 ## [1.0.0-beta.4](https://github.com/Anush008/release-test/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2023-05-21)
 
 

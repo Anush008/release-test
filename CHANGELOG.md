@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.0-beta.6](https://github.com/Anush008/release-test/compare/v1.0.0-beta.5...v1.0.0-beta.6) (2023-05-22)
+
+
+### 🍕 Features
+
+* Update README.md test ([3b8ec0e](https://github.com/Anush008/release-test/commit/3b8ec0eb1c15f0e0619adc90b8c90bd224e4c60c))
+
 ## [1.0.0-beta.5](https://github.com/Anush008/release-test/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2023-05-21)
 
 

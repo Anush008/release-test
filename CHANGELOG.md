@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.0-beta.7](https://github.com/Anush008/release-test/compare/v1.0.0-beta.6...v1.0.0-beta.7) (2023-05-25)
+
+
+### 🍕 Features
+
+* manifest bump test ([aa06e15](https://github.com/Anush008/release-test/commit/aa06e15481531887de8bf6b39037d42dc00de202))
+
 ## [1.0.0-beta.6](https://github.com/Anush008/release-test/compare/v1.0.0-beta.5...v1.0.0-beta.6) (2023-05-22)
 
 
